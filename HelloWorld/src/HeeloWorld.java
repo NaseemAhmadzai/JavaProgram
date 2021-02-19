@@ -90,7 +90,7 @@ public class HeeloWorld {
             r=sc.nextDouble();
             System.out.println("Enter n");
             n=sc.nextDouble();
-	        A = P * Math.pow((1+r), n);
+	        A= P * Math.pow((1+r), n);
 	        
 	        
 	        System.out.println("The total amount earned is: "+A);
